@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Skills  from './components/skills'
 import Skillscard from './components/skillscard'
-import About from './components/about'
+import About from './components/About'
 import Projects from './components/projects'
 const App = () => {
   return (
