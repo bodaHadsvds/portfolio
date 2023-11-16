@@ -1,4 +1,4 @@
-import ProjectCard from './ProjectCard';
+import ProjectCard from './projectcard';
 import { projects } from '../../data';
 import SectionTitle from './SectionTitle';
 
