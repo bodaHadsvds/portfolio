@@ -62,7 +62,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://i.ibb.co/NZP2rKG/ffffffff.png',
-    url: 'https://react-projects.netlify.app/',
+    url: 'https://face-recognation.onrender.com/',
     github: 'https://github.com/bodaHadsvds/face-recognation',
     title: 'Face recognation',
     text: 'A Full Stack React.js website , I used clarifai API for artificial intelligence to identify and detect faces in images , sign in and register form that manage by Node.js backend server which connected to database that dealing with each user account .A Full Stack React.js website , I used clarifai API for artificial intelligence to identify and detect faces in images , sign in and register form that manage by Node.js backend server which connected to database that dealing with each user account . Skills: react hook form · clarifia API · Node.js · Back-end · tachyons · react parallax tilt · React-particles-js · React Hooks · React.js',
