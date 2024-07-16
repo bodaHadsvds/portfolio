@@ -77,7 +77,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "faceRecognation.jpg",
+    img: "faceRecognation.JPG",
     url: "https://face-recognation.onrender.com/",
     github: "https://github.com/bodaHadsvds/face-recognation",
     title: "Face recognation",
