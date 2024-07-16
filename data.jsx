@@ -53,7 +53,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img:"/images/phonex.JPG",
+    img:"phonex.JPG",
     url: "https://phonex-7qy6aecpv-bodahadsvds.vercel.app/",
     github: "https://github.com/bodaHadsvds/phonex",
     title: "Phonex",
@@ -61,7 +61,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "/images/bEACHResort.JPG",
+    img: "bEACHResort.JPG",
     url: "https://beachresortsummer.netlify.app/",
     github: "https://github.com/bodaHadsvds/beachResort",
     title: "Beach Resort",
@@ -69,7 +69,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "./src/images/toyorAljannah.png",
+    img: "toyorAljannah.png",
     url: "https://toyor.netlify.app/#",
     github: "https://github.com/bodaHadsvds/toyor-aljanah",
     title: "Toyor Aljannah",
@@ -77,7 +77,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "./src/images/faceRecognation.jpg",
+    img: "faceRecognation.jpg",
     url: "https://face-recognation.onrender.com/",
     github: "https://github.com/bodaHadsvds/face-recognation",
     title: "Face recognation",
