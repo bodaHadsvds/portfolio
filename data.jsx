@@ -53,7 +53,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "./src/images/phonex.jpg",
+    img: "./images/phonex.jpg",
     url: "https://phonex-7qy6aecpv-bodahadsvds.vercel.app/",
     github: "https://github.com/bodaHadsvds/phonex",
     title: "Phonex",
