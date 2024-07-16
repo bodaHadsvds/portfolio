@@ -61,7 +61,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "./src/images/bEACHResort.JPG",
+    img: "bEACHResort.JPG",
     url: "https://beachresortsummer.netlify.app/",
     github: "https://github.com/bodaHadsvds/beachResort",
     title: "Beach Resort",
