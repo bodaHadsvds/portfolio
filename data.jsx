@@ -53,7 +53,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "./images/phonex.jpg",
+    img:"/images/phonex.JPG",
     url: "https://phonex-7qy6aecpv-bodahadsvds.vercel.app/",
     github: "https://github.com/bodaHadsvds/phonex",
     title: "Phonex",
@@ -61,7 +61,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "bEACHResort.JPG",
+    img: "/images/bEACHResort.JPG",
     url: "https://beachresortsummer.netlify.app/",
     github: "https://github.com/bodaHadsvds/beachResort",
     title: "Beach Resort",
