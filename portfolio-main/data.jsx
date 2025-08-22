@@ -51,18 +51,6 @@ export const skills = [
 ];
 
 export const projects = [
-
-    {
-    id: nanoid(),
-    img:"samoulla.png",
-    url: "https://www.samoulla.com/ar",
-    github: "https://github.com/bodaHadsvds/samoulla",
-    title: "samoulla",
-    text: "E-Commerce Platform – Developed a modern, scalable e-commerce application with a strong focus on performance, SEO, and analytics. Integrated MyFatoorah payment gateway with Next.js for secure checkout, implemented client-side form validation using Formik, and managed tracking pixels (Meta, Google) for marketing optimization. Configured structured metadata (OG tags, SEO schema) and added full localization support (multi-language & RTL).Skills: React Query · Next.js · React.js · CSS · Bootstrap · Context API · Performance Optimization · SEO · Analytics Tracking · Metadata Management · Localization · MyFatoorah Payment Integration · Formik (Form Validation)"
-
-,
-  },
-
   {
     id: nanoid(),
     img:"phonex.JPG",
